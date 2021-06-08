@@ -22,19 +22,10 @@
 - ⚡ Fun fact: am gemstone hunter 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/Fraol123" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5p>
-</a>
-<a href="https://linkedin.com/in/fraol-tesfaye-mts/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bott>
-</a>
-<a href="https://twitter.com/fraol_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom:>
-</a>
-</a>
-</div>
-</td><td valign="top" width="33%">
+📖 To read more about me, visit my [personal website](https://fraol123.github.io/) or [LinkedIn](https://linkedin.com/in/fraol-tesfaye-mts/).
+
+✉️ To connect, please do [email me](mailto:Fraoltesfaye.ft@gmail.com)!
+
 
 
 <br/>
