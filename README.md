@@ -23,7 +23,8 @@
 
 ## Connect with me  
 <div align="center">
-📖 To read more about me, visit my [personal website]( https://fraol123.github.io/)
+<a href="https://github.com/Fraol123" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5p>
 </a>
 <a href="https://www.linkedin.com/in/fraol-tesfaye-mts/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bott>
@@ -31,7 +32,9 @@
 <a href="https://twitter.com/fraol_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom:>
 </a>
-✉️ To connect, please do [email me](mailto:fraoltesfaye.ft@gmail.com)!
+📖 To read more about me, visit my [personal website](https://fraol123.github.io/)
+</a>
+</div>
 
 </a>
 </div>
