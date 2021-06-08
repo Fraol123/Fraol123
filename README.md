@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### I'm honored you're visiting my GitHub! :octocat:
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -21,8 +23,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Fraol123" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5p>
+📖 To read more about me, visit my [personal website]( https://fraol123.github.io/)
 </a>
 <a href="https://www.linkedin.com/in/fraol-tesfaye-mts/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bott>
@@ -30,7 +31,8 @@
 <a href="https://twitter.com/fraol_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom:>
 </a>
-<a href=" https://fraol123.github.io/" target="_blank">
+✉️ To connect, please do [email me](mailto:fraoltesfaye.ft@gmail.com)!
+
 </a>
 </div>
 
