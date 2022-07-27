@@ -7,7 +7,7 @@
 </div>
 
 
-### <div align="center">I'm Fraol Tolera, a software engineer 👨💻 learning  remotely from Ethiopia 🚀</div>  
+### <div align="center">I'm Fraol Tolera, a software engineer 👨💻 Working  remotely from Ethiopia 🚀</div>  
 
 
 - 🔭 I’m a graduate of [ALX_Africa](https://www.alxafrica.com/) [Holberton school](https://www.holbertonschool.com/)
