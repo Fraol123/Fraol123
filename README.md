@@ -10,7 +10,7 @@
 ### <div align="center">I'm Fraol Tolera, a software engineer 👨💻 learning  remotely from Ethiopia 🚀</div>  
 
 
-- 🔭 I’m currently a Studen of holberton School Via ALX  [ALX_Africa](https://www.alxafrica.com/) [Holberton school](https://www.holbertonschool.com/)
+- 🔭 I’m a graduate of [ALX_Africa](https://www.alxafrica.com/) [Holberton school](https://www.holbertonschool.com/)
 
 
 - ❓ Ask me about anything 
