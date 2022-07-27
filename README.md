@@ -16,7 +16,7 @@
 - ❓ Ask me about anything 
 
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working as a data analyst 
 
 
 - ⚡ Fun fact: am gemstone hunter 
